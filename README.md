@@ -1,4 +1,10 @@
 ## Rocket Elevators Graphql
+### Week 9 CONSOLIDATION Odyssey 
+
+acquired the groups work from last week and privatised a new repository for personal work.
+
+
+
 
 ### FALL-2020-TEAM-API-2 - Week 8 Odyssey 
 
